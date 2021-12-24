@@ -1,6 +1,9 @@
 # CsvUploader
 A Csv Uploader which handle errors
 
+# Prérequis
+Il faut que vous ayez PHP 8.0 afin de faire fonctionner le projet
+
 # Afin d'installer le projet
 composer install
 
